@@ -1,0 +1,7 @@
+﻿  Clase.cpp
+C:\Users\tacho\source\repos\Clase\Clase\Clase.cpp(8,82): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+C:\Users\tacho\source\repos\Clase\Clase\Clase.cpp(8,78): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\tacho\source\repos\Clase\Clase\Clase.cpp(8,96): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+C:\Users\tacho\source\repos\Clase\Clase\Clase.cpp(8,92): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\tacho\source\repos\Clase\Clase\Clase.cpp(7,66): warning C4101: 'op3': variable local sin referencia
+  Clase.vcxproj -> C:\Users\tacho\source\repos\Clase\Debug\Clase.exe
